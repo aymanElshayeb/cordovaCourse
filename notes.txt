@@ -1,0 +1,101 @@
+First draft
+  - I need to make scratch to all the sessions
+    - Just points and headers
+
+Session 1:
+    - Motivations
+    - Why learning mobile
+
+    - Learning path
+      - Native Mobile application.
+      - Hybrid Application.
+
+   -  Different between Cordova and PhoneGap
+   -  The Idea of Cordova and WebView
+   -  Node.js Introductions
+   - References
+      - Cordova website (https://cordova.apache.org/)
+        Apache Cordova 4 Programming (John M. Wargo) (https://www.amazon.de/Apache-Cordova-Programming-Mobile/dp/0134048199)
+
+Session 2:
+  - Hello World for one page on Android Emulators
+  - Explain the projects
+
+Session 3:
+ - Cordova different commands.
+ 
+Session 4:
+- Cordova API 1
+
+Session 5:
+	- Cordova Api 2 
+	- Phone Gap	
+	- IDs and different options
+	- Testing Hybrid applications
+	- Using mobile clouding to test and deploy
+	
+- Session Applications
+ - Application 0
+	Setup Node js
+	Set up Android ( Search for windows and IOS)
+	
+ - Appication 1
+	Application 1.1
+		- HTML page full cycle
+    Application 1.2
+		- 2 HTML page full cycle
+	Applicaiton 1.3
+		- adding Alert console
+		
+ - Application 2 (cordova Api)
+	Application 2.1 (Info)
+		- Batterystatus
+		- Device		
+		- Network Information
+		
+	Application 2.2 ( Alert)
+		- alert, promot, conform
+		-  beep , viberation
+		- Dialoge
+		- Console
+		- Splashscreen
+		- StatusBar	
+	
+	Application 2.3
+		-	Accelerometer
+		-	Compass
+		-	Geolocation
+			
+	
+	Application 2.4
+		-	Camera
+		-	Media
+		-	Media Capture
+		
+	Application (Ignored)
+		-	FileSystem
+		-	File Transfer
+		-	Globalization
+		
+
+--------------------------------------------- 13- Nov - 2017
+	-States
+	   - I have done most of the code by hand
+	   - Draft presentations
+	   - Some topics to be added
+		-	Storage ( need investegation with hand one)
+		-	Serve call ( need running server)
+		-	change splash and icon ( need new plugin and hand one)
+		-	Good UI ( some HTML5 and CSS knowledge)
+		- tlint ( plugin to compile javasripts )
+		
+	- Next
+		-	complete all the code by hand ( done)
+		-	Arrange the sessions 
+		-	Prova with recording
+		
+	- Final state
+		- Draft version that can be delivered 
+			- Including session and code
+			
+	- finish session and continue with HTML5,css, JQuery, bootstrap

@@ -1,0 +1,21 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.ipoint.cordova.Compass"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.ipoint.cordova.Compass"
+    },
+    "cordova-plugin-device-orientation": {
+      "PACKAGE_NAME": "com.ipoint.cordova.Compass"
+    }
+  },
+  "dependent_plugins": {}
+}
